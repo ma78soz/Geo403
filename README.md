@@ -7,7 +7,7 @@ Gruppe: Julia Kroner, Tom Spinke, Marlene Westecker
 ## Workflow
 ![Workflow](workflow.png)
 ## Datenbeschreibung
-Hier befinden sich die Parameter, welche in der Hangrutschungsgefährdungskarte berücksichtigt werden sollen. Für einen reibungslosen Ablauf sollten die Daten als Raster mit maximal 5-10 Klassen vorliegen. Folgende Parameter bieten sich für die Analyse von Hangrutschungsgefährdung an: 
+Für die Erstellung einer Hangrutschungsgefährdungskarte können verschiedene Parameter berücksichtigt werden. Für einen reibungslosen Ablauf sollten die Daten als Raster mit maximal 5-10 Klassen vorliegen, sowie die gleiche Ausdehnung und Auflösung haben. Folgende **Parameter** bieten sich für die Analyse von Hangrutschungsgefährdung an: 
 - DGM Derivate:
   - Hangneigung
   - Hangausrichtung
@@ -21,3 +21,4 @@ Hier befinden sich die Parameter, welche in der Hangrutschungsgefährdungskarte 
 - Distanz zu Straßen
 - Distanz zu Gewässern
 - Niederschlag
+Darüber hinaus wird ein **Hangrutschungsinventar** benötigt sowie ggf. eine **Sichtfeldmaske**. Daten, die zum Testen der Skripte genutzt werden können befinden sich im Order "Beispieldaten". 
