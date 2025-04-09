@@ -21,4 +21,5 @@ Für die Erstellung einer Hangrutschungsgefährdungskarte können verschiedene P
 - Distanz zu Straßen
 - Distanz zu Gewässern
 - Niederschlag
+<br>
 Darüber hinaus wird ein **Hangrutschungsinventar** benötigt sowie ggf. eine **Sichtfeldmaske**. Daten, die zum Testen der Skripte genutzt werden können befinden sich im Order "Beispieldaten". 
