@@ -24,9 +24,8 @@ Für die Erstellung einer Hangrutschungsgefährdungskarte können verschiedene P
 - Boden
 - Distanz zu Straßen
 - Distanz zu Gewässern
-- Niederschlag
-<br>
-Darüber hinaus wird ein **Hangrutschungsinventar** benötigt sowie ggf. eine **Sichtfeldmaske**. Daten, die zum Testen der Skripte genutzt werden können befinden sich im Order "Beispieldaten".
+- Niederschlag<br>
+<br>Darüber hinaus werden ein **Hangrutschungsinventar** sowie ggf. eine **Sichtfeldmaske** benötigt. Daten, die zum Testen der Skripte genutzt werden können befinden sich im Order "Beispieldaten".
 
 ## Literatur
 - Çevik, E., & Topal, T. (2003). GIS-based landslide susceptibility mapping for a problematic segment of the natural gas pipeline, Hendek (Turkey). Environmental Geology, 44(8), 949–962. https://doi.org/10.1007/s00254-003-0838-6
