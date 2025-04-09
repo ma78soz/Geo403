@@ -5,7 +5,7 @@ Gruppe: Julia Kroner, Tom Spinke, Marlene Westecker
 
 ## Hintergrund des Projekts
 ## Workflow
-![Workflow] (/C:/Users/Marlenelokal/OneDrive/Dokumente/UniJena/Geo403_Geoinfo_Projekt/workflow.png)
+![Workflow](workflow.png)
 ## Datenbeschreibung
 Hier befinden sich die Parameter, welche in der Hangrutschungsgefährdungskarte berücksichtigt werden sollen. Für einen reibungslosen Ablauf sollten die Daten als Raster mit maximal 5-10 Klassen vorliegen. Folgende Parameter bieten sich für die Analyse von Hangrutschungsgefährdung an: 
 - DGM Derivate:
