@@ -1,7 +1,7 @@
 # Hangrutschungen in Zentralvietnam
 Abschlussaufgabe Geo403 (Geoinformatikprojekt)
 <br>WiSe 2024/25 bei Dr. Markus Meinhardt
-<br>Gruppe: Julia Kroner, Tom Spinke, Marlene Westecker 
+<br>Gruppe: Julia, Tom, Marlene
 
 ## Hintergrund 
 Hangrutschungen zählen zu den gravierendsten Formen von Naturgefahren und stellen insbesondere in topographisch komplexen, intensiv genutzten sowie klimatisch sensib-len Regionen eine erhebliche Bedrohung dar. Zentralvietnam, das unter dem Einfluss des südostasiatischen Monsuns steht, ist aufgrund der Überlagerung natürlicher und anthropogener Risikofaktoren besonders anfällig für Hanginstabilitäten. Der fortschreitende Klimawandel, der eine Zunahme extremer Niederschlagsereignisse erwarten lässt, sowie die Ausweitung von Siedlungs- und Infrastrukturflächen und Eingriffe in natürliche Wasserressourcen, beispielsweise durch den Ausbau der Wasserkraft, erhöhen die Belastung der Landschaft signifikant (Das et al., 2024; Fink et al., 2017; Meinhardt et al., 2015; Nguyen et al., 2024; Razavizadeh et al., 2017).
