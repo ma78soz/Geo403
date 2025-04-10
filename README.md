@@ -1,4 +1,4 @@
-# Hangrutschungen in Zentralvietnam
+# Erstellung einer Hangrutschungsgefährdungskarte
 Abschlussaufgabe Geo403 (Geoinformatikprojekt)
 <br>WiSe 2024/25 bei Dr. Markus Meinhardt
 <br>Gruppe: Julia, Tom, Marlene
